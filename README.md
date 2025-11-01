@@ -1,96 +1,40 @@
-Hi there, I'm Shahzeb Ali 👋
+# 💫 About Me:
+Hi there, I'm Shahzeb Ali 👋 <br>
+I am a penetration tester <br>
+I have obtained many certifications<br>
+  1. Jr. Penetration Tester - Tryhackme
+  2. CyberSecurity 101 - Tryhackme
+  3. Pre Security - Tryhackme
+  4. Learn Bash Scripting Course - Codecademy
+  5. Python - Codedex
+  6. Intro to Model Context Propocol (MCP) - Scrimba
 
-<a href="https://www.linkedin.com/in/i-shahzeb-ali/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="https://www.google.com/search?q=https://tryhackme.com/p/mistersavant"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-TryHackMe-88cc14%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" alt="TryHackMe"></a>
 
-I'm an enthusiastic entry-level penetration tester and cybersecurity student based in Abu Dhabi. I have a passion for offensive security—learning how to break systems so I can help build stronger, more resilient defenses.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_shahzeb_ali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i_shahzeb_ali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ishahzebali) 
 
-I'm also a firm believer in making security accessible. I enjoy breaking down complex cybersecurity concepts into simple, easy-to-understand explanations.
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-🚀 About Me
+# TryHackMe Badge:
+<img src="https://tryhackme-badges.s3.amazonaws.com/MisterSavant.png" alt="Your Image Badge" />
 
-🎓 I'm a Computer Science graduate with a strong foundation in software development, networking, and security principles.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ishahzebali&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ishahzebali&theme=cobalt2&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishahzebali&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🛡️ My focus is on offensive security. I spend my time on platforms like TryHackMe, where I've earned the Junior Penetration Tester certification, and competing in picoCTF challenges.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ishahzebali&theme=cobalt2&no-frame=false&no-bg=true&margin-w=4)
 
-🐍 I love building scripts in Python and Bash to automate repetitive tasks and create useful tools.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-💬 Ask me about: Vulnerability Assessment, Network Scanning, or the difference between a SUID binary and a sticky bit!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ishahzebali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🧰 My Toolkit
+---
+[![](https://visitcount.itsvg.in/api?id=ishahzebali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Here are some of the technologies and tools I work with:
-
-Offensive Security
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Metasploit-black%3Fstyle%3Dflat-square%26logo%3Dmetasploit%26logoColor%3Dwhite" alt="Metasploit">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Burp_Suite-orange%3Fstyle%3Dflat-square%26logo%3Dburp-suite%26logoColor%3Dwhite" alt="Burp Suite">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Nmap-grey%3Fstyle%3Dflat-square%26logo%3Dnmap%26logoColor%3Dwhite" alt="Nmap">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Nessus-blue%3Fstyle%3Dflat-square%26logo%3Dnessus%26logoColor%3Dwhite" alt="Nessus">
-</p>
-
-Programming & Scripting
-
-<p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Bash-4EAA25%3Fstyle%3Dflat-square%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash">
-</p>
-
-Other Technologies
-
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-PostgreSQL-336791%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-</p>
-
-🔒 My Featured Projects
-
-Project
-
-Description
-
-Technologies Used
-
-Vulnerability Analysis (TryHackMe)
-
-Write-up of a TryHackMe room detailing enumeration, exploitation of a File Upload vulnerability, and privilege escalation via a SUID binary.
-
-Nmap, Burp Suite, Metasploit, LinPEAS
-
-Library Management System
-
-A full-stack application to manage library operations, including book cataloging, user management, and checkouts.
-
-Python, PostgreSQL
-
-Blog Post Generator
-
-An automated content tool that uses the OpenAI API to generate complete blog posts from simple user prompts.
-
-Python, OpenAI API
-
-Discord Bot
-
-A simple bot built with discord.py to automate server tasks and add interactive features.
-
-Python, discord.py
-
-📊 My Stats & Badges
-
-<p align="center">
-<a href="https://www.google.com/search?q=https://tryhackme.com/p/mistersavant">
-<img src="https://www.google.com/search?q=https://tryhackme.com/p/mistersavant/badges/all" alt="TryHackMe Profile">
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/ishahzebali">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dishahzebali%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="Shahzeb's GitHub Stats">
-</a>
-</p>
-
-📫 Let's Connect
-
-LinkedIn: https://www.linkedin.com/in/i-shahzeb-ali/
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itsshahzebali) 
